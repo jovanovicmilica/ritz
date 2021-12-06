@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<chanel>
+	<title>Events</title>
+	<link>file:///C:/Users/Milica/Desktop/sajtovi/WebDizajnMarija/index.html</link>
+	<description>RSS za vesti</description>
+	<item>
+		<title>The holidays are coming!</title>
+		<link>file:///C:/Users/Milica/Desktop/sajtovi/WebDizajnMarija/index.html#events</link>
+		<description>Indulge in a holiday fairy tale in your favorite place!</description>
+	</item>	
+	<item>
+		<title>Autumn is coming!</title>
+		<link>file:///C:/Users/Milica/Desktop/sajtovi/WebDizajnMarija/index.html#events</link>
+		<description>Autumn is a second spring when every leaf is a flower!</description>
+	</item>	
+</chanel>
+</rss>
